@@ -1,2 +1,2 @@
 # Extensivereader
-App for extensive reading. Doubleclick add to base words.
+App for extensive reading. Doubleclick add to words base.
