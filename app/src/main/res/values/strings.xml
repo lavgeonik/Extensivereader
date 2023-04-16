@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Extensive reader</string>
+    <string name="cur_read_file">reading_file__path</string>
+    <string name="cur_scroll_position">scroll_position</string>
+    <string name="file_out">added_words.txt</string>
+</resources>
